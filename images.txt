@@ -11,5 +11,6 @@ andrewmhub/insurgency-sandstorm:latest
 cloudreve/cloudreve:latest
 nextcloud:latest
 jc21/nginx-proxy-manager
+nginx
 #支持指定架构
 #%--platform=linux/amd64 xiaoyaliu/alist
