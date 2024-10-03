@@ -10,5 +10,6 @@ cnk3x/xunlei:latest
 andrewmhub/insurgency-sandstorm:latest
 cloudreve/cloudreve:latest
 nextcloud:latest
+jc21/nginx-proxy-manager
 #支持指定架构
 #%--platform=linux/amd64 xiaoyaliu/alist
