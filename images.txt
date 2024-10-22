@@ -9,9 +9,9 @@ linuxserver/jellyfin:latest
 cnk3x/xunlei:latest
 andrewmhub/insurgency-sandstorm:latest
 linuxserver/nextcloud:latest
-nextcloud:latest
 jc21/nginx-proxy-manager:latest
 nginx:latest
+pixman/pixman:latest
 
 #支持指定架构
 #%--platform=linux/amd64 xiaoyaliu/alist
