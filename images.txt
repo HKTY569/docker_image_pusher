@@ -1,6 +1,6 @@
 nginx
 #支持私库
-ypptec/nascab:3.5.3-x64
+#%--platform=linux/amd64 ypptec/nascab
 
 #支持指定架构
 #%--platform=linux/amd64 xiaoyaliu/alist
