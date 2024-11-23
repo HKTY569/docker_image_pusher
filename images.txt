@@ -7,7 +7,6 @@ amilys/embyserver:beta
 mysql:latest
 linuxserver/jellyfin:latest
 cnk3x/xunlei:latest
-andrewmhub/insurgency-sandstorm:latest
 linuxserver/nextcloud:latest
 jc21/nginx-proxy-manager:latest
 nginx:latest
