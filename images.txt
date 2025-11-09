@@ -13,5 +13,6 @@ nginx:latest
 pixman/pixman:latest
 ypptec/nascab:3.5.3-x64
 redis:latest
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
