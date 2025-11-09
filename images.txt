@@ -8,11 +8,10 @@ redis:latest
 linuxserver/jellyfin:latest
 cnk3x/xunlei:latest
 linuxserver/nextcloud:latest
-andrewmhub/insurgency-sandstorm:latest
 jc21/nginx-proxy-manager:latest
 nginx:latest
 pixman/pixman:latest
 ypptec/nascab:3.5.3-x64
-
+andrewmhub/insurgency-sandstorm:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
